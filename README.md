@@ -1,5 +1,11 @@
 # Manipulation Challenge | RoBorregos Candidates 2022
 
+## Manipulation Challenge
+This branch contains the modified xarm_ros submodule, with the package xarm_gazebo where the scripts for the challenge are stored. Documentation on the use of the program can be found either on the README from the modified [xarm_ros](https://github.com/EmilianoHFlores/xarm_ros) and in the dedicated Google Drive [folder](https://drive.google.com/drive/folders/1iXzl5-_70VB-4PgRmxKZXOnzSH9V_0SO?usp=sharing).
+
+Contact:
+José Emiliano Flores Martínez [A00833160@tec.mx](mailto:A00833160@tec.mx)
+
 ## Development team
 
 | Name                    | Email                                                               | Github                                                       | Role      |
