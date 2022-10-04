@@ -1,5 +1,11 @@
 # RoBorregos Candidates 2022
 
+## Emiliano Flores Manipulation Challenge
+This fork contains the work for the manipulation challenge from Candidates 2022. It can be found as a submodule in the Manipulation [Branch](https://github.com/EmilianoHFlores/Candidates-2022/tree/ManipulationChallenge). Documentation on the use of the scripts can be found there. 
+
+Contact:
+José Emiliano Flores Martínez [A00833160@tec.mx](mailto:A00833160@tec.mx)
+
 ## Development team
 
 | Name                    | Email                                                               | Github                                                       | Role      |
