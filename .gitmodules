@@ -1,3 +1,4 @@
 [submodule "challenge_ws/src/xarm_ros"]
 	path = challenge_ws/src/xarm_ros
 	url = https://github.com/EmilianoHFlores/xarm_ros
+	branch = master
